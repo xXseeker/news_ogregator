@@ -1,4 +1,4 @@
-# PopularNews
+# News Aggregator
 Приложение для новостей, использующее API с сайта https://newsapi.org/
 
 API News - это JSON API для новостей в реальном времени и статей из блогов медиа.
