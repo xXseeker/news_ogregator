@@ -5,6 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
+        multiDexEnabled true
         applicationId "com.example.newsaggregator"
         minSdkVersion 15
         targetSdkVersion 34
